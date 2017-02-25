@@ -84,7 +84,8 @@ em {
 }
 
 h2 {
-    font-size: 30px
+    font-size: 30px;
+    clear: both;
 }
 
 .icones-redes-sociais li{
@@ -112,4 +113,16 @@ h1{
 
 .linkedin{
 	background-image: url(linkedin.png);
+}
+
+.fiat{
+	float: right;
+}
+
+.petrobras{
+	float: left;
+}
+
+cite{
+	float: right;
 }
